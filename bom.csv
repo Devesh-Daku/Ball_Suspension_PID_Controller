@@ -1,0 +1,9 @@
+Name,Quantity,Component
+U1,1, Arduino Uno R3
+U3,1, LCD 16 x 2
+"Rpot1, Rpot2",2,250 kΩ Potentiometer
+R1,1,220 Ω Resistor
+BAT1,1, 3s 1000-3000mAh lipo battery
+M1,1,BLDC-HeighTorqueMotor
+U2,1,BEL-Heli 30A ESC
+DIST1,1, Ultrasonic Distance Sensor (4-pin)
